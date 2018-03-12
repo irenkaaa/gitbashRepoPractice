@@ -2,5 +2,4 @@
 
 make some changes!
 
-
-Main branch changes!
+Resolving Merging conflict! 
